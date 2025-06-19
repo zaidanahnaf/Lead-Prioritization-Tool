@@ -1,0 +1,19 @@
+Company,Industry,Street,City,State,Business Type,Employees Count,Revenue,Product/Service Category,BBB Rating,Owner Name,Owner Title,Owner LinkedIn,Owner Email,Owner Phone,Company LinkedIn
+InnovateHub,SaaS,123 Tech Avenue,San Francisco,CA,LLC,75,15000000,AI Analytics,A+,Jane Doe,CEO & Co-Founder,https://linkedin.com/in/janedoe,jane.doe@innovatehub.com,123-456-7890,https://linkedin.com/company/innovatehub
+DataWeave Solutions,FinTech,456 Data Drive,New York,NY,Corporation,250,50000000,Payment Gateway,A,John Smith,Chief Technology Officer,https://linkedin.com/in/johnsmith,j.smith@dataweave.com,,https://linkedin.com/company/dataweave
+CloudSphere Inc.,Cloud Computing,789 Server Street,Austin,TX,Corporation,500,120000000,IaaS,A+,Emily White,Founder,https://linkedin.com/in/emilywhite,emily.w@cloudsphere.com,321-654-0987,https://linkedin.com/company/cloudsphere
+NextGen Robotics,Hardware,101 Robot Road,Boston,MA,LLC,30,5000000,Industrial Automation,B,Michael Brown,,,mbrown@nextgenrobotics.com,,https://linkedin.com/company/nextgenrobotics
+Healthify,HealthTech,21 Medical Plaza,Chicago,IL,S-Corp,120,25000000,Telemedicine,NR,Sarah Green,CEO,https://linkedin.com/in/sarahgreen,sarah.g@healthify.io,987-654-3210,https://linkedin.com/company/healthify
+EcomEngine,E-commerce Platform,33 Market St,Los Angeles,CA,LLC,200,,B2B E-commerce,C,,,,,https://linkedin.com/company/ecomengine
+QuantumLeap AI,,44 Quantum Way,Palo Alto,CA,Corporation,15,,Deep Learning Models,A+,,Lead Scientist,https://linkedin.com/in/alanquantum,,415-555-0101,
+SecureKey Systems,Cybersecurity,55 Security Blvd,Washington,DC,Corporation,300,75000000,Identity Management,,David Chen,CISO,https://linkedin.com/in/davidchen,d.chen@securekey.net,,https://linkedin.com/company/securekey
+GreenLeaf Organics,Retail,66 Organic Lane,Portland,OR,Sole Proprietorship,10,1000000,CPG,B-,Laura Wilson,Owner,https://linkedin.com/in/laurawilson,,503-555-0123,
+ConnectSphere,Social Media,77 Social Circle,Miami,FL,LLC,45,8000000,Community Platform,NR,Carlos Ray,Founder & CEO,c.ray@connectsphere.co,,https://linkedin.com/company/connectsphere
+LogiTrack,Logistics,88 Supply Chain Rd,Dallas,TX,Corporation,600,200000000,Fleet Management,A,Peter Jones,COO,,peter.jones@logitrack.com,214-555-0145,https://linkedin.com/company/logitrack
+FinPal,FinTech,99 Finance Court,New York,NY,LLC,25,3500000,Personal Finance App,,,info@finpal.com,,
+MobileFirst Devs,Mobile Development,11 App Avenue,San Diego,CA,Partnership,5,750000,iOS & Android Apps,NR,Frank Miller,Lead Developer,,,,
+PixelPerfect,Design Agency,22 Creative Corner,Brooklyn,NY,LLC,12,1200000,UI/UX Design,A,Jessica Wu,Creative Director,https://linkedin.com/in/jessicawu,jessica@pixelperfect.design,,https://linkedin.com/company/pixelperfect
+SustainFarms,AgriTech,,Austin,TX,B-Corp,50,6000000,Sustainable Farming,A-,,CEO,,,https://linkedin.com/company/sustainfarms
+SmartHome Solutions,IoT,123 Smart St,Seattle,WA,LLC,80,18000000,Home Automation,A+,Alice Johnson,Founder & CTO,https://linkedin.com/in/alicejohnson,alice.johnson@smarthomesolutions.com,123-456-7890,https://linkedin.com/company/smarthomesolutions
+VirtualHealth,Telehealth,456 Wellness Way,Denver,CO,S-Corp,200,40000000,Remote Care Services,A+,Tom Harris,CEO,https://linkedin.com/in/tomharris,tom.harris@virtualhealth.com,987-654-3210,https://linkedin.com/company/virtualhealth
+TechWave Innovations,Software Development,789 Code Lane,San Jose,CA,LLC,150,30000000,Custom Software,A,,CTO,,https://linkedin.com/company/techwaveinnovations,415-555-0199,
