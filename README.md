@@ -42,7 +42,7 @@ By assigning scores and quality flags, it brings clarity and speed into the lead
 
 LeadQualiScore/
 │
-├── app/                   # Kode utama
+├── app/                   # Main code
 │   ├── main.py            # Streamlit app
 │   ├── utils.py           # Scoring & validator functions
 │   └── sample_leads.csv   # Dummy data
@@ -50,8 +50,8 @@ LeadQualiScore/
 ├── notebook/              # Jupyter walkthrough
 │   └── demo.ipynb
 │
-├── README.md              # Petunjuk penggunaan
-├── report.md              # 1-pager untuk Caprae
+├── README.md              # Guide
+├── report.md              # 1-pager for Caprae
 ├── requirements.txt       # Dependencies
 └── .gitignore
 
