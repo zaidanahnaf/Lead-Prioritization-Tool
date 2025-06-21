@@ -45,7 +45,7 @@ While no predictive ML model was trained, **performance was qualitatively measur
 - Presence of clear segmentation between low-, mid-, and high-priority entries
 - Detection of incomplete records using flagging logic
 
-A notebook walkthrough was provided (`model_demo.ipynb`) showing the logic, score distribution plot, and top leads preview.
+A notebook walkthrough was provided (`demo.ipynb`) showing the logic, score distribution plot, and top leads preview.
 
 ---
 
