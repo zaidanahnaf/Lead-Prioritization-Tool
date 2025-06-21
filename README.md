@@ -50,6 +50,7 @@ LeadQualiScore/
 ├── notebook/              # Jupyter walkthrough
 │   └── demo.ipynb
 │
+├── LICENSE
 ├── README.md              # Guide
 ├── report.md              # 1-pager for Caprae
 ├── requirements.txt       # Dependencies
@@ -71,11 +72,15 @@ pip install -r requirements.txt
 streamlit run app/main.py
 ```
 
+---
+
 ## 🧪 Demo Dataset
 If you don’t have access to real enriched data, you can use the included `sample_leads.csv` for simulation.
 
 ## 📹 Video Walkthrough
-[![]()
+[]()
+
+---
 
 ## 🧠 Tech Stack
 - Python
@@ -84,10 +89,24 @@ If you don’t have access to real enriched data, you can use the included `samp
 - Regex
 - scikit-learn (for future upgrade to ML model)
 
+---
+
 ## 🔄 Upgrade Path
 While this version uses rule-based scoring for speed and clarity, it is designed to be model-ready. The logic can easily be replaced with a supervised classifier trained on historical outreach results.
+
+---
+
+## ⚠️ Usage Disclaimer
+
+This tool was developed under a time constraint as part of a technical interview challenge.  
+All logic and design decisions belong to the author.
+
+Please do not reproduce, commercialize, or reuse without permission.  
+© 2025 Dhafa Zaidan Ahnaf
+
+---
 
 ## 🙋 About the Author
 Dhafa Zaidan Ahnaf
 Machine Learning Engineer Intern Applicant
-[![LinkedIn](https://www.linkedin.com/in/dhafazaidan/)
+[LinkedIn](https://www.linkedin.com/in/dhafazaidan/)
