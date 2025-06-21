@@ -47,6 +47,10 @@ LeadQualiScore/
 │   ├── utils.py           # Scoring & validator functions
 │   └── sample_leads.csv   # Dummy data
 │
+├── data/
+│   ├── saasquatch_leads_dummy.csv
+│   └── sample_leads_dummy.csv
+│ 
 ├── notebook/              # Jupyter walkthrough
 │   └── demo.ipynb
 │
