@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from app.utils import process_leads # importing the function to process leads
+from utils import process_leads # importing the function to process leads
 import os
 
 # --- Page Configuration ---
