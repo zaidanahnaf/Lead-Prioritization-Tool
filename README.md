@@ -80,6 +80,8 @@ streamlit run app/main.py
 ## 🧪 Demo Dataset
 If you don’t have access to real enriched data, you can use the included `sample_leads.csv` for simulation.
 
+---
+
 ## 📹 Video Walkthrough
 [https://www.loom.com/share/096ec3e0c52f43efa9d9e5d16c58be71?sid=65bfc7a3-bb50-4fe6-9cf0-c51655cc60fd](https://www.loom.com/share/096ec3e0c52f43efa9d9e5d16c58be71?sid=65bfc7a3-bb50-4fe6-9cf0-c51655cc60fd)
 
