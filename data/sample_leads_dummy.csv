@@ -1,0 +1,16 @@
+Company,Industry,Street,City,State,Business Type,Employees Count,Revenue,Product/Service Category,BBB Rating,Owner Name,Owner Title,Owner LinkedIn,Owner Email,Owner Phone,Company LinkedIn
+Company 1,nan,872 Main St,Miami,TX,B2B,0.0,,N/A,F,Bob Smith,Director,https://linkedin.com/in/alicejohnson,bob@example.com,415-555-5678,https://linkedin.com/company/company1
+Company 2,HealthTech,664 Main St,San Francisco,CA,B2B,0.0,$10M,AI Software,F,Bob Smith,CTO,nan,nan,212-555-1234,https://linkedin.com/company/company2
+Company 3,Cloud Computing,131 Main St,San Francisco,CA,B2B2C,0.0,$10M,N/A,A+,Alice Johnson,CEO,nan,nan,212-555-1234,https://linkedin.com/company/company1
+Company 4,nan,662 Main St,New York,TX,B2C,,$10M,AI Software,A+,Diana Lee,Director,https://linkedin.com/in/alicejohnson,nan,212-555-1234,https://linkedin.com/company/company1
+Company 5,Retail,309 Main St,Miami,CA,nan,40.0,,Banking Service,A+,Alice Johnson,Owner,https://linkedin.com/in/alicejohnson,nan,305-555-7890,nan
+Company 6,Cloud Computing,770 Main St,New York,TX,B2B,300.0,$10M,Cloud Hosting,A+,Diana Lee,Owner,nan,nan,415-555-5678,https://linkedin.com/company/company2
+Company 7,Cloud Computing,344 Main St,New York,FL,nan,0.0,$1.2M,AI Software,C,Bob Smith,nan,nan,bob@example.com,212-555-1234,nan
+Company 8,nan,492 Main St,Austin,TX,B2C,150.0,,N/A,B,Alice Johnson,CTO,nan,bob@example.com,nan,nan
+Company 9,FinTech,414 Main St,Austin,FL,B2C,0.0,$1.2M,Banking Service,B,nan,Owner,https://linkedin.com/in/bobsmith,contact@company.com,212-555-1234,https://linkedin.com/company/company2
+Company 10,Retail,806 Main St,Austin,FL,B2C,150.0,,AI Software,A+,Charlie Kim,CEO,https://linkedin.com/in/bobsmith,nan,212-555-1234,https://linkedin.com/company/company1
+Company 11,nan,386 Main St,San Francisco,NY,B2B,150.0,$10M,N/A,B,Diana Lee,Head of Sales,https://linkedin.com/in/bobsmith,bob@example.com,305-555-7890,https://linkedin.com/company/company1
+Company 12,Retail,192 Main St,Miami,TX,B2C,0.0,$1.2M,N/A,B,Charlie Kim,Head of Sales,https://linkedin.com/in/alicejohnson,contact@company.com,305-555-7890,https://linkedin.com/company/company2
+Company 13,Retail,956 Main St,Miami,NY,B2B,,,N/A,A+,Charlie Kim,Director,https://linkedin.com/in/bobsmith,nan,415-555-5678,https://linkedin.com/company/company1
+Company 14,Cloud Computing,277 Main St,Miami,TX,B2C,150.0,$45M,AI Software,B,Alice Johnson,Owner,https://linkedin.com/in/alicejohnson,alice@example.com,nan,https://linkedin.com/company/company2
+Company 15,HealthTech,161 Main St,Miami,TX,nan,150.0,$10M,AI Software,F,Charlie Kim,Owner,https://linkedin.com/in/alicejohnson,contact@company.com,305-555-7890,https://linkedin.com/company/company2
