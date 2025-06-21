@@ -1,41 +1,44 @@
-# LeadQualiScore: Smart Lead Scoring & Validator for SaaSquatchLeads
+# LeadQualiScore: A Lightweight Lead Scoring & Validation Tool
 
-A lightweight tool designed to enhance the lead qualification experience for SaaSquatchLeads users by scoring and validating enriched company data. Built within 5 hours as part of Caprae Capital's pre-work challenge.
+This tool was developed for Caprae Capital's internship challenge to simulate an intelligent lead prioritization layer on top of data outputs from SaaSquatchLeads.com. 
+
+It evaluates leads based on business relevance and data completeness, helping operators focus on outreach-worthy targets. Built entirely within a 5-hour code window.
 
 ---
 
 ## 🚀 Purpose
 
-SaaSquatchLeads delivers enriched lead data through scraping and API aggregation. However, many leads suffer from incomplete or inconsistent enrichment, such as missing employee counts, invalid emails, or unclear business type.
+While SaaSquatchLeads enriches business data across multiple sources, many lead outputs remain noisy, incomplete, or hard to qualify. 
 
-This tool addresses that gap by:
-- Scoring each lead based on business relevance and data completeness
-- Flagging incomplete or risky leads
-- Empowering users to filter and export high-quality leads only
+This tool helps answer:  
+**"Which leads are worth pursuing first?"**
 
----
-
-## 💡 Key Features
-
-- ✅ **Smart Lead Scoring**: Assigns each lead a score (0–10) based on:
-  - Industry match
-  - Revenue presence
-  - Valid employee count
-  - Business type clarity
-  - Enrichment completeness
-
-- ⚠️ **Data Integrity Validator**:
-  - Detects suspicious fields (e.g. “Employees = 0” + “Revenue = $4.7B”)
-  - Flags empty or vague descriptions like “Expertise not mentioned”
-
-- 📊 **Interactive UI with Streamlit**:
-  - Upload CSV
-  - View & filter leads by score or flags
-  - Export refined leads for outreach
+By assigning scores and quality flags, it brings clarity and speed into the lead selection process.
 
 ---
 
-## 📁 Project Structure
+## 🧠 Key Features
+
+- ✅ **Lead Scoring System**  
+  Ranks leads from 0–100 based on:
+  - Industry fit (e.g. SaaS, FinTech, etc.)
+  - Company size (employee count)
+  - Estimated revenue
+  - Title seniority (CEO, Founder, etc.)
+  - Data availability (email, LinkedIn)
+
+- 🛑 **Data Integrity Flags**  
+  Flags incomplete or questionable fields such as:
+  - Missing owner email or name
+  - Zero employees + high revenue
+  - Blank company LinkedIn
+
+- 🔍 **Interactive UI (Streamlit)**  
+  - Upload your enriched leads CSV
+  - Filter leads by score, industry, or flags
+  - Export cleaned, prioritized results
+
+```
 
 LeadQualiScore/
 │
@@ -44,7 +47,7 @@ LeadQualiScore/
 │   ├── utils.py           # Scoring & validator functions
 │   └── sample_leads.csv   # Dummy data
 │
-├── notebook/              # (optional) Jupyter walkthrough
+├── notebook/              # Jupyter walkthrough
 │   └── demo.ipynb
 │
 ├── README.md              # Petunjuk penggunaan
@@ -52,17 +55,39 @@ LeadQualiScore/
 ├── requirements.txt       # Dependencies
 └── .gitignore
 
+```
 
 ---
 
 ## ⚙️ How to Run
 
-1. Clone repo:
+1. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/leadqualiscore.git
+git clone https://github.com/zaidanahnaf/leadqualiscore.git
 cd leadqualiscore
 
 pip install -r requirements.txt
 
 streamlit run app/main.py
 ```
+
+## 🧪 Demo Dataset
+If you don’t have access to real enriched data, you can use the included `sample_leads.csv` for simulation.
+
+## 📹 Video Walkthrough
+[![]()
+
+## 🧠 Tech Stack
+- Python
+- Pandas
+- Streamlit
+- Regex
+- scikit-learn (for future upgrade to ML model)
+
+## 🔄 Upgrade Path
+While this version uses rule-based scoring for speed and clarity, it is designed to be model-ready. The logic can easily be replaced with a supervised classifier trained on historical outreach results.
+
+## 🙋 About the Author
+Dhafa Zaidan Ahnaf
+Machine Learning Engineer Intern Applicant
+[![LinkedIn](https://www.linkedin.com/in/dhafazaidan/)
