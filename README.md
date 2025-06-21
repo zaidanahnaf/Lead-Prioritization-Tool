@@ -46,7 +46,7 @@ LeadQualiScore/
 │   ├── main.py                        # Streamlit app
 │   ├── utils.py                       # Scoring & validator functions
 │
-├── data/                              # Dummy data
+├── data/                              # Dummy datasets
 │   ├── saasquatch_leads_dummy.csv
 │   └── sample_leads_dummy.csv
 │ 
